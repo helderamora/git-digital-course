@@ -5,7 +5,9 @@
 ### Salvando modificações no Git
 
 #### Salvando alterações
-* comando git push
-* comando git pull
-* TEST
-* TEST 2
+
+- comando git push
+- comando git pull
+- TEST
+- TEST 2
+- Retomasda dos estudos

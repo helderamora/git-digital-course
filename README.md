@@ -10,4 +10,4 @@
 - comando git pull
 - TEST
 - TEST 2
-- Retomasda dos estudos
+- Retomada dos estudos
